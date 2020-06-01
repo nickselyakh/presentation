@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.2.24)  31 MAY 2020 20:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.2.24)  1 JUN 2020 23:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -832,102 +832,6 @@ File: tikzlibrarypositioning.code.tex 2019/04/04 v3.1.2 (3.1.2)
 \c@remark=\count174
 \c@assumption=\count175
 \c@definition=\count176
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/caption/subcaption.sty
-Package: subcaption 2018/05/01 v1.1-162 Sub-captions (AR)
- (/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
- (/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
-Package caption3 Info: TeX engine: e-TeX on input line 64.
-\captionmargin=\dimen199
-\captionmargin@=\dimen256
-\captionwidth=\dimen257
-\caption@tempdima=\dimen258
-\caption@indent=\dimen259
-\caption@parindent=\dimen260
-\caption@hangindent=\dimen261
-)
-\c@caption@flags=\count177
-\c@ContinuedFloat=\count178
-Package caption Info: beamer document class.
-Package caption Info: hyperref package is loaded.
-Package caption Info: Hyperref support is turned off
-(caption)             because hyperref has stopped early.
-)
-\c@subfigure=\count179
-\c@subtable=\count180
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count181
-\lst@gtempboxa=\box67
-\lst@token=\toks49
-\lst@length=\count182
-\lst@currlwidth=\dimen262
-\lst@column=\count183
-\lst@pos=\count184
-\lst@lostspace=\dimen263
-\lst@width=\dimen264
-\lst@newlines=\count185
-\lst@lineno=\count186
-\lst@maxwidth=\dimen265
- (/usr/local/texlive/2019/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
-\c@lstnumber=\count187
-\lst@skipnumbers=\count188
-\lst@framebox=\box68
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/listings/listings.cfg
-File: listings.cfg 2019/02/27 1.8b listings configuration
-))
-Package: listings 2019/02/27 1.8b (Carsten Heinz)
- (/usr/local/texlive/2019/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
-Package: algorithm2e 2017/07/18 v5.2 algorithms environments
-\c@AlgoLine=\count189
- (/usr/local/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-\algocf@hangindent=\skip57
- (/usr/local/texlive/2019/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
-Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
-\c@checkoddpage=\count190
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/xspace.sty
-Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/relsize/relsize.sty
-Package: relsize 2013/03/29 ver 4.1
-)
-\skiptotal=\skip58
-\skiplinenumber=\skip59
-\skiprule=\skip60
-\skiphlne=\skip61
-\skiptext=\skip62
-\skiplength=\skip63
-\algomargin=\skip64
-\skipalgocfslide=\skip65
-\algowidth=\dimen266
-\inoutsize=\dimen267
-\inoutindent=\dimen268
-\interspacetitleruled=\dimen269
-\interspacealgoruled=\dimen270
-\interspacetitleboxruled=\dimen271
-\algocf@ruledwidth=\skip66
-\algocf@inoutbox=\box69
-\algocf@inputbox=\box70
-\AlCapSkip=\skip67
-\AlCapHSkip=\skip68
-\algoskipindent=\skip69
-\algocf@nlbox=\box71
-\algocf@hangingbox=\box72
-\algocf@untilbox=\box73
-\algocf@skipuntil=\skip70
-\algocf@capbox=\box74
-\algocf@lcaptionbox=\skip71
-\algoheightruledefault=\skip72
-\algoheightrule=\skip73
-\algotitleheightruledefault=\skip74
-\algotitleheightrule=\skip75
-\c@algocfline=\count191
-\c@algocfproc=\count192
-\c@algocf=\count193
-\algocf@algoframe=\box75
-\algocf@algobox=\box76
 )
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
@@ -1426,7 +1330,7 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\CYRYA' on input line 29.
 
 (/Users/nikitaselyakh/Desktop/Presentation/Seliakh_Presentation.aux
-LaTeX Font Info:    Try loading font information for T2A+cmss on input line 21.
+LaTeX Font Info:    Try loading font information for T2A+cmss on input line 20.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/cyrillic/t2acmss.fd
 File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
@@ -1489,26 +1393,26 @@ LaTeX Font Info:    ... okay on input line 29.
 
 (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count194
-\scratchdimen=\dimen272
-\scratchbox=\box77
-\nofMPsegments=\count195
-\nofMParguments=\count196
-\everyMPshowfont=\toks50
-\MPscratchCnt=\count197
-\MPscratchDim=\dimen273
-\MPnumerator=\count198
-\makeMPintoPDFobject=\count199
-\everyMPtoPDFconversion=\toks51
+\scratchcounter=\count177
+\scratchdimen=\dimen199
+\scratchbox=\box67
+\nofMPsegments=\count178
+\nofMParguments=\count179
+\everyMPshowfont=\toks49
+\MPscratchCnt=\count180
+\MPscratchDim=\dimen256
+\MPnumerator=\count181
+\makeMPintoPDFobject=\count182
+\everyMPtoPDFconversion=\toks50
 ) ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box78
+\AtBeginShipoutBox=\box68
 Package hyperref Info: Link coloring OFF on input line 29.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
  (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count266
+\c@section@level=\count183
 )
 LaTeX Info: Redefining \ref on input line 29.
 LaTeX Info: Redefining \pageref on input line 29.
@@ -1529,18 +1433,10 @@ Dictionary: translator-months-dictionary, Language: English
 Dictionary: translator-numbers-dictionary, Language: English 
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-)
-Package caption Info: Begin \AtBeginDocument code.
-Package caption Info: listings package is loaded.
-Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count267
- (/Users/nikitaselyakh/Desktop/Presentation/Seliakh_Presentation.nav)
-Overfull \hbox (398.04002pt too wide) in paragraph at lines 29--29
- [][][][]  
- []
-
+) (/Users/nikitaselyakh/Desktop/Presentation/Seliakh_Presentation.nav)
 LaTeX Font Info:    Try loading font information for OMS+cmss on input line 29.
 LaTeX Font Info:    No file OMScmss.fd. on input line 29.
+
 
 LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead on input line 29.
@@ -1585,156 +1481,91 @@ Overfull \hbox (13.89565pt too wide) in paragraph at lines 30--30
 [][] 
  []
 
-
-Overfull \hbox (398.04002pt too wide) has occurred while \output is active
- [][][][]  
- []
-
 [1
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} </Users/nikitaselyakh/Desktop/Presentation/bsulogo-eps-converted-to.pdf> </Users/nikitaselyakh/Desktop/Presentation/FPMIlogo.jpg> </Users/nikitaselyakh/Desktop/Presentation/MOUlogo.jpg>]
 File: MOUlogo.jpg Graphic file (type jpg)
 <use MOUlogo.jpg>
-Package pdftex.def Info: MOUlogo.jpg  used on input line 52.
+Package pdftex.def Info: MOUlogo.jpg  used on input line 41.
 (pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
-
-Overfull \hbox (398.04002pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[2
+ [2
 
 ]
 File: MOUlogo.jpg Graphic file (type jpg)
 <use MOUlogo.jpg>
-Package pdftex.def Info: MOUlogo.jpg  used on input line 80.
+Package pdftex.def Info: MOUlogo.jpg  used on input line 71.
 (pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
-
-Overfull \hbox (398.04002pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[3
+ [3
 
 ]
 File: MOUlogo.jpg Graphic file (type jpg)
 <use MOUlogo.jpg>
-Package pdftex.def Info: MOUlogo.jpg  used on input line 99.
+Package pdftex.def Info: MOUlogo.jpg  used on input line 106.
 (pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
-
-Overfull \hbox (398.04002pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[4
+ [4
 
 ]
 File: MOUlogo.jpg Graphic file (type jpg)
 <use MOUlogo.jpg>
-Package pdftex.def Info: MOUlogo.jpg  used on input line 118.
+Package pdftex.def Info: MOUlogo.jpg  used on input line 129.
 (pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
-
-Overfull \hbox (398.04002pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[5
+ [5
 
 ]
 File: MOUlogo.jpg Graphic file (type jpg)
 <use MOUlogo.jpg>
-Package pdftex.def Info: MOUlogo.jpg  used on input line 134.
+Package pdftex.def Info: MOUlogo.jpg  used on input line 143.
 (pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
-
-Overfull \hbox (398.04002pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[6
+ [6
 
 ]
 File: MOUlogo.jpg Graphic file (type jpg)
 <use MOUlogo.jpg>
-Package pdftex.def Info: MOUlogo.jpg  used on input line 151.
+Package pdftex.def Info: MOUlogo.jpg  used on input line 166.
 (pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
-
-Overfull \hbox (398.04002pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[7
+ [7
 
 ]
 File: MOUlogo.jpg Graphic file (type jpg)
 <use MOUlogo.jpg>
-Package pdftex.def Info: MOUlogo.jpg  used on input line 168.
+Package pdftex.def Info: MOUlogo.jpg  used on input line 195.
 (pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
-
-Overfull \hbox (398.04002pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[8
+ [8
 
 ]
 File: MOUlogo.jpg Graphic file (type jpg)
 <use MOUlogo.jpg>
-Package pdftex.def Info: MOUlogo.jpg  used on input line 192.
+Package pdftex.def Info: MOUlogo.jpg  used on input line 255.
 (pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
-
-Overfull \hbox (398.04002pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[9
+ [9
 
 ]
 File: MOUlogo.jpg Graphic file (type jpg)
 <use MOUlogo.jpg>
-Package pdftex.def Info: MOUlogo.jpg  used on input line 215.
+Package pdftex.def Info: MOUlogo.jpg  used on input line 284.
 (pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
-
-Overfull \hbox (398.04002pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[10
+ [10
 
 ]
 File: MOUlogo.jpg Graphic file (type jpg)
 <use MOUlogo.jpg>
-Package pdftex.def Info: MOUlogo.jpg  used on input line 224.
+Package pdftex.def Info: MOUlogo.jpg  used on input line 296.
 (pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
-
-Overfull \hbox (398.04002pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[11
+ [11
 
 ]
 File: MOUlogo.jpg Graphic file (type jpg)
 <use MOUlogo.jpg>
-Package pdftex.def Info: MOUlogo.jpg  used on input line 237.
+Package pdftex.def Info: MOUlogo.jpg  used on input line 309.
 (pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
-
-Overfull \hbox (398.04002pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[12
+ [12
 
 ]
 File: MOUlogo.jpg Graphic file (type jpg)
 <use MOUlogo.jpg>
-Package pdftex.def Info: MOUlogo.jpg  used on input line 251.
+Package pdftex.def Info: MOUlogo.jpg  used on input line 329.
 (pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
-
-Overfull \hbox (398.04002pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[13
+ [13
 
 ]
 Package epstopdf Info: Source file: <figure1.eps>
@@ -1744,13 +1575,13 @@ Package epstopdf Info: Source file: <figure1.eps>
 (epstopdf)                    date: 2020-05-30 21:27:21
 (epstopdf)                    size: 173425 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure1-eps-converted-to.pdf figure1.eps>
-(epstopdf)             \includegraphics on input line 276.
+(epstopdf)             \includegraphics on input line 338.
 Package epstopdf Info: Output file is already uptodate.
-<figure1-eps-converted-to.pdf, id=168, 562.1pt x 421.575pt>
+<figure1-eps-converted-to.pdf, id=249, 562.1pt x 421.575pt>
 File: figure1-eps-converted-to.pdf Graphic file (type pdf)
 <use figure1-eps-converted-to.pdf>
-Package pdftex.def Info: figure1-eps-converted-to.pdf  used on input line 276.
-(pdftex.def)             Requested size: 95.84079pt x 71.87907pt.
+Package pdftex.def Info: figure1-eps-converted-to.pdf  used on input line 338.
+(pdftex.def)             Requested size: 119.80544pt x 89.85207pt.
 Package epstopdf Info: Source file: <figure5.eps>
 (epstopdf)                    date: 2020-05-30 21:27:21
 (epstopdf)                    size: 171166 bytes
@@ -1758,13 +1589,13 @@ Package epstopdf Info: Source file: <figure5.eps>
 (epstopdf)                    date: 2020-05-30 21:27:21
 (epstopdf)                    size: 153807 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure5-eps-converted-to.pdf figure5.eps>
-(epstopdf)             \includegraphics on input line 276.
+(epstopdf)             \includegraphics on input line 338.
 Package epstopdf Info: Output file is already uptodate.
-<figure5-eps-converted-to.pdf, id=169, 562.1pt x 421.575pt>
+<figure5-eps-converted-to.pdf, id=250, 562.1pt x 421.575pt>
 File: figure5-eps-converted-to.pdf Graphic file (type pdf)
 <use figure5-eps-converted-to.pdf>
-Package pdftex.def Info: figure5-eps-converted-to.pdf  used on input line 276.
-(pdftex.def)             Requested size: 95.84079pt x 71.87907pt.
+Package pdftex.def Info: figure5-eps-converted-to.pdf  used on input line 338.
+(pdftex.def)             Requested size: 119.80544pt x 89.85207pt.
 Package epstopdf Info: Source file: <figure10.eps>
 (epstopdf)                    date: 2020-05-30 21:27:22
 (epstopdf)                    size: 119576 bytes
@@ -1772,13 +1603,13 @@ Package epstopdf Info: Source file: <figure10.eps>
 (epstopdf)                    date: 2020-05-30 21:42:56
 (epstopdf)                    size: 15995 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure10-eps-converted-to.pdf figure10.eps>
-(epstopdf)             \includegraphics on input line 276.
+(epstopdf)             \includegraphics on input line 338.
 Package epstopdf Info: Output file is already uptodate.
-<figure10-eps-converted-to.pdf, id=170, 562.1pt x 421.575pt>
+<figure10-eps-converted-to.pdf, id=251, 562.1pt x 421.575pt>
 File: figure10-eps-converted-to.pdf Graphic file (type pdf)
 <use figure10-eps-converted-to.pdf>
-Package pdftex.def Info: figure10-eps-converted-to.pdf  used on input line 276.
-(pdftex.def)             Requested size: 95.84079pt x 71.87907pt.
+Package pdftex.def Info: figure10-eps-converted-to.pdf  used on input line 338.
+(pdftex.def)             Requested size: 119.80544pt x 89.85207pt.
 Package epstopdf Info: Source file: <figure20.eps>
 (epstopdf)                    date: 2020-05-30 21:27:22
 (epstopdf)                    size: 16603 bytes
@@ -1786,23 +1617,18 @@ Package epstopdf Info: Source file: <figure20.eps>
 (epstopdf)                    date: 2020-05-30 21:27:22
 (epstopdf)                    size: 5211 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure20-eps-converted-to.pdf figure20.eps>
-(epstopdf)             \includegraphics on input line 276.
+(epstopdf)             \includegraphics on input line 338.
 Package epstopdf Info: Output file is already uptodate.
-<figure20-eps-converted-to.pdf, id=171, 562.1pt x 421.575pt>
+<figure20-eps-converted-to.pdf, id=252, 562.1pt x 421.575pt>
 File: figure20-eps-converted-to.pdf Graphic file (type pdf)
 <use figure20-eps-converted-to.pdf>
-Package pdftex.def Info: figure20-eps-converted-to.pdf  used on input line 276.
-(pdftex.def)             Requested size: 95.84079pt x 71.87907pt.
+Package pdftex.def Info: figure20-eps-converted-to.pdf  used on input line 338.
+(pdftex.def)             Requested size: 119.80544pt x 89.85207pt.
 File: MOUlogo.jpg Graphic file (type jpg)
 <use MOUlogo.jpg>
-Package pdftex.def Info: MOUlogo.jpg  used on input line 276.
+Package pdftex.def Info: MOUlogo.jpg  used on input line 338.
 (pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
-
-Overfull \hbox (398.04002pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[14
+ [14
 
  </Users/nikitaselyakh/Desktop/Presentation/figure1-eps-converted-to.pdf> </Users/nikitaselyakh/Desktop/Presentation/figure5-eps-converted-to.pdf> </Users/nikitaselyakh/Desktop/Presentation/figure10-eps-converted-to.pdf> </Users/nikitaselyakh/Desktop/Presentation/figure20-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <graphics-42.eps>
@@ -1812,12 +1638,12 @@ Package epstopdf Info: Source file: <graphics-42.eps>
 (epstopdf)                    date: 2020-05-31 19:55:17
 (epstopdf)                    size: 6574 bytes
 (epstopdf)             Command: <repstopdf --outfile=graphics-42-eps-converted-to.pdf graphics-42.eps>
-(epstopdf)             \includegraphics on input line 293.
+(epstopdf)             \includegraphics on input line 345.
 Package epstopdf Info: Output file is already uptodate.
-<graphics-42-eps-converted-to.pdf, id=204, 562.1pt x 421.575pt>
+<graphics-42-eps-converted-to.pdf, id=281, 562.1pt x 421.575pt>
 File: graphics-42-eps-converted-to.pdf Graphic file (type pdf)
 <use graphics-42-eps-converted-to.pdf>
-Package pdftex.def Info: graphics-42-eps-converted-to.pdf  used on input line 293.
+Package pdftex.def Info: graphics-42-eps-converted-to.pdf  used on input line 345.
 (pdftex.def)             Requested size: 164.30028pt x 123.22495pt.
 Package epstopdf Info: Source file: <x1x2.eps>
 (epstopdf)                    date: 2020-05-31 19:34:23
@@ -1826,87 +1652,46 @@ Package epstopdf Info: Source file: <x1x2.eps>
 (epstopdf)                    date: 2020-05-31 19:54:50
 (epstopdf)                    size: 12300 bytes
 (epstopdf)             Command: <repstopdf --outfile=x1x2-eps-converted-to.pdf x1x2.eps>
-(epstopdf)             \includegraphics on input line 293.
+(epstopdf)             \includegraphics on input line 345.
 Package epstopdf Info: Output file is already uptodate.
-<x1x2-eps-converted-to.pdf, id=205, 562.1pt x 421.575pt>
+<x1x2-eps-converted-to.pdf, id=282, 562.1pt x 421.575pt>
 File: x1x2-eps-converted-to.pdf Graphic file (type pdf)
 <use x1x2-eps-converted-to.pdf>
-Package pdftex.def Info: x1x2-eps-converted-to.pdf  used on input line 293.
+Package pdftex.def Info: x1x2-eps-converted-to.pdf  used on input line 345.
 (pdftex.def)             Requested size: 164.30028pt x 123.22495pt.
 File: MOUlogo.jpg Graphic file (type jpg)
 <use MOUlogo.jpg>
-Package pdftex.def Info: MOUlogo.jpg  used on input line 293.
+Package pdftex.def Info: MOUlogo.jpg  used on input line 345.
 (pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
-
-Overfull \hbox (398.04002pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[15
+ [15
 
  </Users/nikitaselyakh/Desktop/Presentation/graphics-42-eps-converted-to.pdf> </Users/nikitaselyakh/Desktop/Presentation/x1x2-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <primer2-u.eps>
-(epstopdf)                    date: 2020-05-31 19:34:28
-(epstopdf)                    size: 15889 bytes
-(epstopdf)             Output file: <primer2-u-eps-converted-to.pdf>
-(epstopdf)                    date: 2020-05-31 19:34:51
-(epstopdf)                    size: 5085 bytes
-(epstopdf)             Command: <repstopdf --outfile=primer2-u-eps-converted-to.pdf primer2-u.eps>
-(epstopdf)             \includegraphics on input line 316.
-Package epstopdf Info: Output file is already uptodate.
-<primer2-u-eps-converted-to.pdf, id=235, 562.1pt x 421.575pt>
-File: primer2-u-eps-converted-to.pdf Graphic file (type pdf)
-<use primer2-u-eps-converted-to.pdf>
-Package pdftex.def Info: primer2-u-eps-converted-to.pdf  used on input line 316.
-(pdftex.def)             Requested size: 136.91603pt x 102.68532pt.
-Package epstopdf Info: Source file: <picture2-x.eps>
-(epstopdf)                    date: 2020-05-31 19:34:38
-(epstopdf)                    size: 190560 bytes
-(epstopdf)             Output file: <picture2-x-eps-converted-to.pdf>
-(epstopdf)                    date: 2020-05-31 19:34:52
-(epstopdf)                    size: 61684 bytes
-(epstopdf)             Command: <repstopdf --outfile=picture2-x-eps-converted-to.pdf picture2-x.eps>
-(epstopdf)             \includegraphics on input line 316.
-Package epstopdf Info: Output file is already uptodate.
-<picture2-x-eps-converted-to.pdf, id=236, 562.1pt x 421.575pt>
-File: picture2-x-eps-converted-to.pdf Graphic file (type pdf)
-<use picture2-x-eps-converted-to.pdf>
-Package pdftex.def Info: picture2-x-eps-converted-to.pdf  used on input line 316.
-(pdftex.def)             Requested size: 136.91603pt x 102.68532pt.
 File: MOUlogo.jpg Graphic file (type jpg)
 <use MOUlogo.jpg>
-Package pdftex.def Info: MOUlogo.jpg  used on input line 316.
+Package pdftex.def Info: MOUlogo.jpg  used on input line 381.
 (pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
-
-Overfull \hbox (398.04002pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[16
-
- </Users/nikitaselyakh/Desktop/Presentation/primer2-u-eps-converted-to.pdf> </Users/nikitaselyakh/Desktop/Presentation/picture2-x-eps-converted-to.pdf>]
-File: MOUlogo.jpg Graphic file (type jpg)
-<use MOUlogo.jpg>
-Package pdftex.def Info: MOUlogo.jpg  used on input line 333.
-(pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
-
-Overfull \hbox (398.04002pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[17
+ [16
 
 ]
 File: MOUlogo.jpg Graphic file (type jpg)
 <use MOUlogo.jpg>
-Package pdftex.def Info: MOUlogo.jpg  used on input line 372.
+Package pdftex.def Info: MOUlogo.jpg  used on input line 401.
 (pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
+ [17
 
-Overfull \hbox (398.04002pt too wide) has occurred while \output is active
- [][][][]  
- []
+]
+File: MOUlogo.jpg Graphic file (type jpg)
+<use MOUlogo.jpg>
+Package pdftex.def Info: MOUlogo.jpg  used on input line 415.
+(pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
+ [18
 
-[18
+]
+File: MOUlogo.jpg Graphic file (type jpg)
+<use MOUlogo.jpg>
+Package pdftex.def Info: MOUlogo.jpg  used on input line 436.
+(pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
+ [19
 
 ]
 Package epstopdf Info: Source file: <pctr-u.eps>
@@ -1916,13 +1701,13 @@ Package epstopdf Info: Source file: <pctr-u.eps>
 (epstopdf)                    date: 2020-05-31 20:00:05
 (epstopdf)                    size: 6022 bytes
 (epstopdf)             Command: <repstopdf --outfile=pctr-u-eps-converted-to.pdf pctr-u.eps>
-(epstopdf)             \includegraphics on input line 391.
+(epstopdf)             \includegraphics on input line 487.
 Package epstopdf Info: Output file is already uptodate.
-<pctr-u-eps-converted-to.pdf, id=268, 562.1pt x 421.575pt>
+<pctr-u-eps-converted-to.pdf, id=370, 562.1pt x 421.575pt>
 File: pctr-u-eps-converted-to.pdf Graphic file (type pdf)
 <use pctr-u-eps-converted-to.pdf>
-Package pdftex.def Info: pctr-u-eps-converted-to.pdf  used on input line 391.
-(pdftex.def)             Requested size: 136.91603pt x 102.68532pt.
+Package pdftex.def Info: pctr-u-eps-converted-to.pdf  used on input line 487.
+(pdftex.def)             Requested size: 164.30028pt x 123.22495pt.
 Package epstopdf Info: Source file: <pctr-x.eps>
 (epstopdf)                    date: 2020-05-31 19:59:58
 (epstopdf)                    size: 15859 bytes
@@ -1930,23 +1715,18 @@ Package epstopdf Info: Source file: <pctr-x.eps>
 (epstopdf)                    date: 2020-05-31 20:00:05
 (epstopdf)                    size: 4763 bytes
 (epstopdf)             Command: <repstopdf --outfile=pctr-x-eps-converted-to.pdf pctr-x.eps>
-(epstopdf)             \includegraphics on input line 391.
+(epstopdf)             \includegraphics on input line 487.
 Package epstopdf Info: Output file is already uptodate.
-<pctr-x-eps-converted-to.pdf, id=269, 562.1pt x 421.575pt>
+<pctr-x-eps-converted-to.pdf, id=371, 562.1pt x 421.575pt>
 File: pctr-x-eps-converted-to.pdf Graphic file (type pdf)
 <use pctr-x-eps-converted-to.pdf>
-Package pdftex.def Info: pctr-x-eps-converted-to.pdf  used on input line 391.
-(pdftex.def)             Requested size: 136.91603pt x 102.68532pt.
+Package pdftex.def Info: pctr-x-eps-converted-to.pdf  used on input line 487.
+(pdftex.def)             Requested size: 164.30028pt x 123.22495pt.
 File: MOUlogo.jpg Graphic file (type jpg)
 <use MOUlogo.jpg>
-Package pdftex.def Info: MOUlogo.jpg  used on input line 391.
+Package pdftex.def Info: MOUlogo.jpg  used on input line 487.
 (pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
-
-Overfull \hbox (398.04002pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[19
+ [20
 
  </Users/nikitaselyakh/Desktop/Presentation/pctr-u-eps-converted-to.pdf> </Users/nikitaselyakh/Desktop/Presentation/pctr-x-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <pctr-expl.eps>
@@ -1956,39 +1736,25 @@ Package epstopdf Info: Source file: <pctr-expl.eps>
 (epstopdf)                    date: 2020-05-31 20:00:06
 (epstopdf)                    size: 59239 bytes
 (epstopdf)             Command: <repstopdf --outfile=pctr-expl-eps-converted-to.pdf pctr-expl.eps>
-(epstopdf)             \includegraphics on input line 403.
+(epstopdf)             \includegraphics on input line 498.
 Package epstopdf Info: Output file is already uptodate.
-<pctr-expl-eps-converted-to.pdf, id=292, 562.1pt x 421.575pt>
+<pctr-expl-eps-converted-to.pdf, id=393, 562.1pt x 421.575pt>
 File: pctr-expl-eps-converted-to.pdf Graphic file (type pdf)
 <use pctr-expl-eps-converted-to.pdf>
-Package pdftex.def Info: pctr-expl-eps-converted-to.pdf  used on input line 403.
+Package pdftex.def Info: pctr-expl-eps-converted-to.pdf  used on input line 498.
 (pdftex.def)             Requested size: 239.60567pt x 179.70413pt.
 File: MOUlogo.jpg Graphic file (type jpg)
 <use MOUlogo.jpg>
-Package pdftex.def Info: MOUlogo.jpg  used on input line 403.
+Package pdftex.def Info: MOUlogo.jpg  used on input line 498.
 (pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
-
-Overfull \vbox (15.60425pt too high) detected at line 403
- []
-
-
-Overfull \hbox (398.04002pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[20
+ [21
 
  </Users/nikitaselyakh/Desktop/Presentation/pctr-expl-eps-converted-to.pdf>]
 File: MOUlogo.jpg Graphic file (type jpg)
 <use MOUlogo.jpg>
-Package pdftex.def Info: MOUlogo.jpg  used on input line 412.
+Package pdftex.def Info: MOUlogo.jpg  used on input line 507.
 (pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
-
-Overfull \hbox (398.04002pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[21
+ [22
 
 ]
 \tf@nav=\write8
@@ -2000,11 +1766,11 @@ Overfull \hbox (398.04002pt too wide) has occurred while \output is active
 \tf@snm=\write10
 \openout10 = `Seliakh_Presentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 416.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 416.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 511.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 511.
  (/Users/nikitaselyakh/Desktop/Presentation/Seliakh_Presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 416.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 416.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 511.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 511.
 Package rerunfilecheck Info: File `Seliakh_Presentation.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -2013,18 +1779,18 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 26881 strings out of 492616
- 522189 string characters out of 6129481
- 612755 words of memory out of 5000000
- 30146 multiletter control sequences out of 15000+600000
- 22273 words of font info for 64 fonts, out of 8000000 for 9000
+ 23436 strings out of 492616
+ 466594 string characters out of 6129481
+ 548775 words of memory out of 5000000
+ 26744 multiletter control sequences out of 15000+600000
+ 21302 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 58i,20n,79p,858b,701s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfsi1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfss0600.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfss0900.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfsx1095.pfb>
-Output written on /Users/nikitaselyakh/Desktop/Presentation/Seliakh_Presentation.pdf (21 pages, 759920 bytes).
+ 58i,20n,79p,858b,700s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfsi1095.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfsi1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfss0600.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfss0800.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfss0900.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfsx1095.pfb>
+Output written on /Users/nikitaselyakh/Desktop/Presentation/Seliakh_Presentation.pdf (22 pages, 732225 bytes).
 PDF statistics:
- 397 PDF objects out of 1000 (max. 8388607)
- 284 compressed objects within 3 object streams
+ 506 PDF objects out of 1000 (max. 8388607)
+ 340 compressed objects within 4 object streams
  57 named destinations out of 1000 (max. 500000)
- 239 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 541 words of extra memory for PDF output out of 10000 (max. 10000000)
 
