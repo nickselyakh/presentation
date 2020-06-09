@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.2.24)  8 JUN 2020 22:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.2.24)  9 JUN 2020 16:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1333,7 +1333,11 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 LaTeX Font Info:    Try loading font information for T2A+cmss on input line 20.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/cyrillic/t2acmss.fd
 File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-))
+)
+
+LaTeX Warning: Label `yav-1' multiply defined.
+
+)
 \openout1 = `Seliakh_Presentation.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
@@ -1507,86 +1511,157 @@ Package pdftex.def Info: MOUlogo.jpg  used on input line 106.
 ]
 File: MOUlogo.jpg Graphic file (type jpg)
 <use MOUlogo.jpg>
-Package pdftex.def Info: MOUlogo.jpg  used on input line 120.
+Package pdftex.def Info: MOUlogo.jpg  used on input line 139.
 (pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
  [5
 
 ]
 File: MOUlogo.jpg Graphic file (type jpg)
 <use MOUlogo.jpg>
-Package pdftex.def Info: MOUlogo.jpg  used on input line 143.
+Package pdftex.def Info: MOUlogo.jpg  used on input line 166.
 (pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
  [6
 
 ]
 File: MOUlogo.jpg Graphic file (type jpg)
 <use MOUlogo.jpg>
-Package pdftex.def Info: MOUlogo.jpg  used on input line 157.
+Package pdftex.def Info: MOUlogo.jpg  used on input line 201.
 (pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
  [7
 
-]
+]pdfTeX warning (ext4): destination with the same identifier (name{yav-1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.244 \end{frame}
+                 
 File: MOUlogo.jpg Graphic file (type jpg)
 <use MOUlogo.jpg>
-Package pdftex.def Info: MOUlogo.jpg  used on input line 180.
+Package pdftex.def Info: MOUlogo.jpg  used on input line 244.
 (pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
  [8
 
 ]
 File: MOUlogo.jpg Graphic file (type jpg)
 <use MOUlogo.jpg>
-Package pdftex.def Info: MOUlogo.jpg  used on input line 194.
+Package pdftex.def Info: MOUlogo.jpg  used on input line 275.
 (pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
  [9
 
 ]
 File: MOUlogo.jpg Graphic file (type jpg)
 <use MOUlogo.jpg>
-Package pdftex.def Info: MOUlogo.jpg  used on input line 217.
+Package pdftex.def Info: MOUlogo.jpg  used on input line 299.
 (pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
  [10
 
 ]
 File: MOUlogo.jpg Graphic file (type jpg)
 <use MOUlogo.jpg>
-Package pdftex.def Info: MOUlogo.jpg  used on input line 246.
+Package pdftex.def Info: MOUlogo.jpg  used on input line 314.
 (pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
  [11
 
 ]
 File: MOUlogo.jpg Graphic file (type jpg)
 <use MOUlogo.jpg>
-Package pdftex.def Info: MOUlogo.jpg  used on input line 306.
+Package pdftex.def Info: MOUlogo.jpg  used on input line 346.
 (pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
  [12
 
 ]
+Package epstopdf Info: Source file: <pctr-expl.eps>
+(epstopdf)                    date: 2020-05-31 19:59:58
+(epstopdf)                    size: 68790 bytes
+(epstopdf)             Output file: <pctr-expl-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-05-31 20:00:06
+(epstopdf)                    size: 59239 bytes
+(epstopdf)             Command: <repstopdf --outfile=pctr-expl-eps-converted-to.pdf pctr-expl.eps>
+(epstopdf)             \includegraphics on input line 362.
+Package epstopdf Info: Output file is already uptodate.
+<pctr-expl-eps-converted-to.pdf, id=264, 562.1pt x 421.575pt>
+File: pctr-expl-eps-converted-to.pdf Graphic file (type pdf)
+<use pctr-expl-eps-converted-to.pdf>
+Package pdftex.def Info: pctr-expl-eps-converted-to.pdf  used on input line 362.
+(pdftex.def)             Requested size: 239.60567pt x 179.70413pt.
 File: MOUlogo.jpg Graphic file (type jpg)
 <use MOUlogo.jpg>
-Package pdftex.def Info: MOUlogo.jpg  used on input line 335.
+Package pdftex.def Info: MOUlogo.jpg  used on input line 362.
 (pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
- [13
 
-]
+Overfull \vbox (0.60434pt too high) detected at line 362
+ []
+
+[13
+
+ </Users/nikitaselyakh/Desktop/Presentation/pctr-expl-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <pctr-u.eps>
+(epstopdf)                    date: 2020-05-31 19:59:58
+(epstopdf)                    size: 16438 bytes
+(epstopdf)             Output file: <pctr-u-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-05-31 20:00:05
+(epstopdf)                    size: 6022 bytes
+(epstopdf)             Command: <repstopdf --outfile=pctr-u-eps-converted-to.pdf pctr-u.eps>
+(epstopdf)             \includegraphics on input line 374.
+Package epstopdf Info: Output file is already uptodate.
+<pctr-u-eps-converted-to.pdf, id=280, 562.1pt x 421.575pt>
+File: pctr-u-eps-converted-to.pdf Graphic file (type pdf)
+<use pctr-u-eps-converted-to.pdf>
+Package pdftex.def Info: pctr-u-eps-converted-to.pdf  used on input line 374.
+(pdftex.def)             Requested size: 164.30028pt x 123.22495pt.
+Package epstopdf Info: Source file: <pctr-x.eps>
+(epstopdf)                    date: 2020-05-31 19:59:58
+(epstopdf)                    size: 15859 bytes
+(epstopdf)             Output file: <pctr-x-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-05-31 20:00:05
+(epstopdf)                    size: 4763 bytes
+(epstopdf)             Command: <repstopdf --outfile=pctr-x-eps-converted-to.pdf pctr-x.eps>
+(epstopdf)             \includegraphics on input line 374.
+Package epstopdf Info: Output file is already uptodate.
+<pctr-x-eps-converted-to.pdf, id=281, 562.1pt x 421.575pt>
+File: pctr-x-eps-converted-to.pdf Graphic file (type pdf)
+<use pctr-x-eps-converted-to.pdf>
+Package pdftex.def Info: pctr-x-eps-converted-to.pdf  used on input line 374.
+(pdftex.def)             Requested size: 164.30028pt x 123.22495pt.
 File: MOUlogo.jpg Graphic file (type jpg)
 <use MOUlogo.jpg>
-Package pdftex.def Info: MOUlogo.jpg  used on input line 347.
+Package pdftex.def Info: MOUlogo.jpg  used on input line 374.
 (pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
  [14
 
-]
+ </Users/nikitaselyakh/Desktop/Presentation/pctr-u-eps-converted-to.pdf> </Users/nikitaselyakh/Desktop/Presentation/pctr-x-eps-converted-to.pdf>]
 File: MOUlogo.jpg Graphic file (type jpg)
 <use MOUlogo.jpg>
-Package pdftex.def Info: MOUlogo.jpg  used on input line 360.
+Package pdftex.def Info: MOUlogo.jpg  used on input line 398.
 (pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
  [15
 
 ]
 File: MOUlogo.jpg Graphic file (type jpg)
 <use MOUlogo.jpg>
-Package pdftex.def Info: MOUlogo.jpg  used on input line 380.
+Package pdftex.def Info: MOUlogo.jpg  used on input line 427.
 (pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
  [16
+
+]
+File: MOUlogo.jpg Graphic file (type jpg)
+<use MOUlogo.jpg>
+Package pdftex.def Info: MOUlogo.jpg  used on input line 485.
+(pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
+ [17
+
+]
+File: MOUlogo.jpg Graphic file (type jpg)
+<use MOUlogo.jpg>
+Package pdftex.def Info: MOUlogo.jpg  used on input line 514.
+(pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
+ [18
+
+]
+File: MOUlogo.jpg Graphic file (type jpg)
+<use MOUlogo.jpg>
+Package pdftex.def Info: MOUlogo.jpg  used on input line 535.
+(pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
+ [19
 
 ]
 Package epstopdf Info: Source file: <figure1.eps>
@@ -1596,12 +1671,12 @@ Package epstopdf Info: Source file: <figure1.eps>
 (epstopdf)                    date: 2020-05-30 21:27:21
 (epstopdf)                    size: 173425 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure1-eps-converted-to.pdf figure1.eps>
-(epstopdf)             \includegraphics on input line 389.
+(epstopdf)             \includegraphics on input line 547.
 Package epstopdf Info: Output file is already uptodate.
-<figure1-eps-converted-to.pdf, id=293, 562.1pt x 421.575pt>
+<figure1-eps-converted-to.pdf, id=383, 562.1pt x 421.575pt>
 File: figure1-eps-converted-to.pdf Graphic file (type pdf)
 <use figure1-eps-converted-to.pdf>
-Package pdftex.def Info: figure1-eps-converted-to.pdf  used on input line 389.
+Package pdftex.def Info: figure1-eps-converted-to.pdf  used on input line 547.
 (pdftex.def)             Requested size: 119.80544pt x 89.85207pt.
 Package epstopdf Info: Source file: <figure5.eps>
 (epstopdf)                    date: 2020-05-30 21:27:21
@@ -1610,12 +1685,12 @@ Package epstopdf Info: Source file: <figure5.eps>
 (epstopdf)                    date: 2020-05-30 21:27:21
 (epstopdf)                    size: 153807 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure5-eps-converted-to.pdf figure5.eps>
-(epstopdf)             \includegraphics on input line 389.
+(epstopdf)             \includegraphics on input line 547.
 Package epstopdf Info: Output file is already uptodate.
-<figure5-eps-converted-to.pdf, id=294, 562.1pt x 421.575pt>
+<figure5-eps-converted-to.pdf, id=384, 562.1pt x 421.575pt>
 File: figure5-eps-converted-to.pdf Graphic file (type pdf)
 <use figure5-eps-converted-to.pdf>
-Package pdftex.def Info: figure5-eps-converted-to.pdf  used on input line 389.
+Package pdftex.def Info: figure5-eps-converted-to.pdf  used on input line 547.
 (pdftex.def)             Requested size: 119.80544pt x 89.85207pt.
 Package epstopdf Info: Source file: <figure10.eps>
 (epstopdf)                    date: 2020-05-30 21:27:22
@@ -1624,12 +1699,12 @@ Package epstopdf Info: Source file: <figure10.eps>
 (epstopdf)                    date: 2020-05-30 21:42:56
 (epstopdf)                    size: 15995 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure10-eps-converted-to.pdf figure10.eps>
-(epstopdf)             \includegraphics on input line 389.
+(epstopdf)             \includegraphics on input line 547.
 Package epstopdf Info: Output file is already uptodate.
-<figure10-eps-converted-to.pdf, id=295, 562.1pt x 421.575pt>
+<figure10-eps-converted-to.pdf, id=385, 562.1pt x 421.575pt>
 File: figure10-eps-converted-to.pdf Graphic file (type pdf)
 <use figure10-eps-converted-to.pdf>
-Package pdftex.def Info: figure10-eps-converted-to.pdf  used on input line 389.
+Package pdftex.def Info: figure10-eps-converted-to.pdf  used on input line 547.
 (pdftex.def)             Requested size: 119.80544pt x 89.85207pt.
 Package epstopdf Info: Source file: <figure20.eps>
 (epstopdf)                    date: 2020-05-30 21:27:22
@@ -1638,18 +1713,18 @@ Package epstopdf Info: Source file: <figure20.eps>
 (epstopdf)                    date: 2020-05-30 21:27:22
 (epstopdf)                    size: 5211 bytes
 (epstopdf)             Command: <repstopdf --outfile=figure20-eps-converted-to.pdf figure20.eps>
-(epstopdf)             \includegraphics on input line 389.
+(epstopdf)             \includegraphics on input line 547.
 Package epstopdf Info: Output file is already uptodate.
-<figure20-eps-converted-to.pdf, id=296, 562.1pt x 421.575pt>
+<figure20-eps-converted-to.pdf, id=386, 562.1pt x 421.575pt>
 File: figure20-eps-converted-to.pdf Graphic file (type pdf)
 <use figure20-eps-converted-to.pdf>
-Package pdftex.def Info: figure20-eps-converted-to.pdf  used on input line 389.
+Package pdftex.def Info: figure20-eps-converted-to.pdf  used on input line 547.
 (pdftex.def)             Requested size: 119.80544pt x 89.85207pt.
 File: MOUlogo.jpg Graphic file (type jpg)
 <use MOUlogo.jpg>
-Package pdftex.def Info: MOUlogo.jpg  used on input line 389.
+Package pdftex.def Info: MOUlogo.jpg  used on input line 547.
 (pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
- [17
+ [20
 
  </Users/nikitaselyakh/Desktop/Presentation/figure1-eps-converted-to.pdf> </Users/nikitaselyakh/Desktop/Presentation/figure5-eps-converted-to.pdf> </Users/nikitaselyakh/Desktop/Presentation/figure10-eps-converted-to.pdf> </Users/nikitaselyakh/Desktop/Presentation/figure20-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <graphics-42.eps>
@@ -1659,12 +1734,12 @@ Package epstopdf Info: Source file: <graphics-42.eps>
 (epstopdf)                    date: 2020-05-31 19:55:17
 (epstopdf)                    size: 6574 bytes
 (epstopdf)             Command: <repstopdf --outfile=graphics-42-eps-converted-to.pdf graphics-42.eps>
-(epstopdf)             \includegraphics on input line 396.
+(epstopdf)             \includegraphics on input line 554.
 Package epstopdf Info: Output file is already uptodate.
-<graphics-42-eps-converted-to.pdf, id=325, 562.1pt x 421.575pt>
+<graphics-42-eps-converted-to.pdf, id=415, 562.1pt x 421.575pt>
 File: graphics-42-eps-converted-to.pdf Graphic file (type pdf)
 <use graphics-42-eps-converted-to.pdf>
-Package pdftex.def Info: graphics-42-eps-converted-to.pdf  used on input line 396.
+Package pdftex.def Info: graphics-42-eps-converted-to.pdf  used on input line 554.
 (pdftex.def)             Requested size: 164.30028pt x 123.22495pt.
 Package epstopdf Info: Source file: <x1x2.eps>
 (epstopdf)                    date: 2020-05-31 19:34:23
@@ -1673,90 +1748,23 @@ Package epstopdf Info: Source file: <x1x2.eps>
 (epstopdf)                    date: 2020-05-31 19:54:50
 (epstopdf)                    size: 12300 bytes
 (epstopdf)             Command: <repstopdf --outfile=x1x2-eps-converted-to.pdf x1x2.eps>
-(epstopdf)             \includegraphics on input line 396.
+(epstopdf)             \includegraphics on input line 554.
 Package epstopdf Info: Output file is already uptodate.
-<x1x2-eps-converted-to.pdf, id=326, 562.1pt x 421.575pt>
+<x1x2-eps-converted-to.pdf, id=416, 562.1pt x 421.575pt>
 File: x1x2-eps-converted-to.pdf Graphic file (type pdf)
 <use x1x2-eps-converted-to.pdf>
-Package pdftex.def Info: x1x2-eps-converted-to.pdf  used on input line 396.
+Package pdftex.def Info: x1x2-eps-converted-to.pdf  used on input line 554.
 (pdftex.def)             Requested size: 164.30028pt x 123.22495pt.
 File: MOUlogo.jpg Graphic file (type jpg)
 <use MOUlogo.jpg>
-Package pdftex.def Info: MOUlogo.jpg  used on input line 396.
+Package pdftex.def Info: MOUlogo.jpg  used on input line 554.
 (pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
- [18
+ [21
 
  </Users/nikitaselyakh/Desktop/Presentation/graphics-42-eps-converted-to.pdf> </Users/nikitaselyakh/Desktop/Presentation/x1x2-eps-converted-to.pdf>]
 File: MOUlogo.jpg Graphic file (type jpg)
 <use MOUlogo.jpg>
-Package pdftex.def Info: MOUlogo.jpg  used on input line 441.
-(pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
- [19
-
-]
-Package epstopdf Info: Source file: <pctr-u.eps>
-(epstopdf)                    date: 2020-05-31 19:59:58
-(epstopdf)                    size: 16438 bytes
-(epstopdf)             Output file: <pctr-u-eps-converted-to.pdf>
-(epstopdf)                    date: 2020-05-31 20:00:05
-(epstopdf)                    size: 6022 bytes
-(epstopdf)             Command: <repstopdf --outfile=pctr-u-eps-converted-to.pdf pctr-u.eps>
-(epstopdf)             \includegraphics on input line 492.
-Package epstopdf Info: Output file is already uptodate.
-<pctr-u-eps-converted-to.pdf, id=370, 562.1pt x 421.575pt>
-File: pctr-u-eps-converted-to.pdf Graphic file (type pdf)
-<use pctr-u-eps-converted-to.pdf>
-Package pdftex.def Info: pctr-u-eps-converted-to.pdf  used on input line 492.
-(pdftex.def)             Requested size: 164.30028pt x 123.22495pt.
-Package epstopdf Info: Source file: <pctr-x.eps>
-(epstopdf)                    date: 2020-05-31 19:59:58
-(epstopdf)                    size: 15859 bytes
-(epstopdf)             Output file: <pctr-x-eps-converted-to.pdf>
-(epstopdf)                    date: 2020-05-31 20:00:05
-(epstopdf)                    size: 4763 bytes
-(epstopdf)             Command: <repstopdf --outfile=pctr-x-eps-converted-to.pdf pctr-x.eps>
-(epstopdf)             \includegraphics on input line 492.
-Package epstopdf Info: Output file is already uptodate.
-<pctr-x-eps-converted-to.pdf, id=371, 562.1pt x 421.575pt>
-File: pctr-x-eps-converted-to.pdf Graphic file (type pdf)
-<use pctr-x-eps-converted-to.pdf>
-Package pdftex.def Info: pctr-x-eps-converted-to.pdf  used on input line 492.
-(pdftex.def)             Requested size: 164.30028pt x 123.22495pt.
-File: MOUlogo.jpg Graphic file (type jpg)
-<use MOUlogo.jpg>
-Package pdftex.def Info: MOUlogo.jpg  used on input line 492.
-(pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
- [20
-
- </Users/nikitaselyakh/Desktop/Presentation/pctr-u-eps-converted-to.pdf> </Users/nikitaselyakh/Desktop/Presentation/pctr-x-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <pctr-expl.eps>
-(epstopdf)                    date: 2020-05-31 19:59:58
-(epstopdf)                    size: 68790 bytes
-(epstopdf)             Output file: <pctr-expl-eps-converted-to.pdf>
-(epstopdf)                    date: 2020-05-31 20:00:06
-(epstopdf)                    size: 59239 bytes
-(epstopdf)             Command: <repstopdf --outfile=pctr-expl-eps-converted-to.pdf pctr-expl.eps>
-(epstopdf)             \includegraphics on input line 503.
-Package epstopdf Info: Output file is already uptodate.
-<pctr-expl-eps-converted-to.pdf, id=393, 562.1pt x 421.575pt>
-File: pctr-expl-eps-converted-to.pdf Graphic file (type pdf)
-<use pctr-expl-eps-converted-to.pdf>
-Package pdftex.def Info: pctr-expl-eps-converted-to.pdf  used on input line 503.
-(pdftex.def)             Requested size: 239.60567pt x 179.70413pt.
-File: MOUlogo.jpg Graphic file (type jpg)
-<use MOUlogo.jpg>
-Package pdftex.def Info: MOUlogo.jpg  used on input line 503.
-(pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
-
-Overfull \vbox (0.60434pt too high) detected at line 503
- []
-
-[21
-
- </Users/nikitaselyakh/Desktop/Presentation/pctr-expl-eps-converted-to.pdf>]
-File: MOUlogo.jpg Graphic file (type jpg)
-<use MOUlogo.jpg>
-Package pdftex.def Info: MOUlogo.jpg  used on input line 512.
+Package pdftex.def Info: MOUlogo.jpg  used on input line 631.
 (pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
  [22
 
@@ -1770,31 +1778,34 @@ Package pdftex.def Info: MOUlogo.jpg  used on input line 512.
 \tf@snm=\write10
 \openout10 = `Seliakh_Presentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 516.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 516.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 635.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 635.
  (/Users/nikitaselyakh/Desktop/Presentation/Seliakh_Presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 516.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 516.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 635.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 635.
 Package rerunfilecheck Info: File `Seliakh_Presentation.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 23436 strings out of 492616
- 466594 string characters out of 6129481
- 547774 words of memory out of 5000000
- 26744 multiletter control sequences out of 15000+600000
- 21302 words of font info for 58 fonts, out of 8000000 for 9000
+ 23487 strings out of 492616
+ 467842 string characters out of 6129481
+ 552909 words of memory out of 5000000
+ 26788 multiletter control sequences out of 15000+600000
+ 21965 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 58i,20n,79p,858b,700s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfsi1095.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfsi1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfss0600.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfss0800.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfss0900.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfsx1095.pfb>
-Output written on /Users/nikitaselyakh/Desktop/Presentation/Seliakh_Presentation.pdf (22 pages, 736246 bytes).
+ 58i,20n,79p,858b,751s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfsi1095.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfss0600.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfss0800.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfss0900.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfsx1095.pfb>
+Output written on /Users/nikitaselyakh/Desktop/Presentation/Seliakh_Presentation.pdf (22 pages, 769108 bytes).
 PDF statistics:
- 506 PDF objects out of 1000 (max. 8388607)
- 340 compressed objects within 4 object streams
- 57 named destinations out of 1000 (max. 500000)
- 541 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 554 PDF objects out of 1000 (max. 8388607)
+ 372 compressed objects within 4 object streams
+ 61 named destinations out of 1000 (max. 500000)
+ 619 words of extra memory for PDF output out of 10000 (max. 10000000)
 
